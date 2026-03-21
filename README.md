@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Backend and full-stack web projects using Node.js, Express, MongoDB, and React.<br><br>👯 I’m looking to collaborate on<br>MERN stack projects and open-source contributions.<br><br>🤝 I’m looking for help with<br>Backend best practices and system design basics.<br><br>🌱 I’m currently learning<br>Advanced Node.js, JWT authentication, and MongoDB.<br><br>💬 Ask me about<br>Backend development, REST APIs, and MongoDB.<br><br>⚡ Fun fact<br>I like building clean and simple backend logic 🚀
+🔭 I’m currently working on<br>Backend and full-stack web projects using Node.js, Express, MongoDB, and React.<br><br>👯 I’m looking to collaborate on<br>MERN stack projects and open-source contributions.<br><br>🤝 I’m looking for help with<br>Backend best practices and system design basics.<br><br>🌱 I’m currently learning<br>Node.js, JWT authentication, and MongoDB.<br><br>💬 Ask me about<br>Backend development, REST APIs, and MongoDB.<br><br>⚡ Fun fact<br>I like building clean and simple backend logic 🚀
 
 
 ## 🌐 Socials:
